@@ -1,0 +1,14 @@
+<template>
+    <div class="slds-box slds-box_small slds-theme_info">
+        <div class="slds-grid slds-grid_align-spread slds-has-flexi-truncate">
+            <div class="slds-col">
+                <h3 class="slds-text-heading_small slds-m-bottom_none">Lead Attention Flag</h3>
+            </div>
+            <div class="slds-col slds-text-align_right">
+                <span class="slds-badge slds-theme_warning" if:true={hasUrgency}>
+                    {urgencyText}
+                </span>
+            </div>
+        </div>
+    </div>
+</template>

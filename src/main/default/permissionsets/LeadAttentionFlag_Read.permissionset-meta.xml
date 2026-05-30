@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PermissionSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label>Lead Attention Flag Full</label>
+    <description>Grants read and edit access to the Lead Attention Flag field.</description>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Lead.Attention_Flag__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+</PermissionSet>

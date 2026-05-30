@@ -1,0 +1,13 @@
+{
+  "packageDirectories": [
+    {
+      "path": "src",
+      "default": true,
+      "package": "devorg-gmail",
+      "versionName": "ver 0.1",
+      "versionNumber": "0.1.0.NEXT"
+    }
+  ],
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "66.0"
+}

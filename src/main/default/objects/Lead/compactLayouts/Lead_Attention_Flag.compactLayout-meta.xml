@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CompactLayout xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Lead_Attention_Flag</fullName>
+    <fields>Attention_Flag__c</fields>
+    <fields>Title</fields>
+    <fields>Company</fields>
+    <fields>Phone</fields>
+    <fields>Email</fields>
+    <label>Lead Attention Flag</label>
+</CompactLayout>
