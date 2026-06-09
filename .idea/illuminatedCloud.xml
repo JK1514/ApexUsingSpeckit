@@ -4,9 +4,10 @@
     <option name="connections">
       <list>
         <IlluminatedCloudConnection>
-          <option name="connectionName" value="devorg-gmail" />
+          <option name="connectionName" value="devorg-apex" />
           <option name="connectionType" value="OAUTH" />
           <option name="defaultModuleName" value="devorg-gmail" />
+          <option name="offlineSymbolTablePath" value="$PROJECT_DIR$/IlluminatedCloud/devorg_apex/OfflineSymbolTable.zip" />
         </IlluminatedCloudConnection>
       </list>
     </option>
